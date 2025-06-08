@@ -38,7 +38,8 @@ This project is a hands-on data analytics exercise using **Microsoft Excel**, wh
 
 ## 🔗 Connect with Me
 
-💼 [LinkedIn Profile]([https://lnkd.in/dHNqTZ6X](https://www.linkedin.com/in/arun-prajapati-86b95b277/))
+💼 [LinkedIn Profile]
+[https://lnkd.in/dHNqTZ6X](https://www.linkedin.com/in/arun-prajapati-86b95b277/)
 
 ---
 
